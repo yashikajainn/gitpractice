@@ -1,2 +1,2 @@
 stars
-moons
+planets
